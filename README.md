@@ -11,3 +11,6 @@ Após a inserção dos dados, o aplicativo realiza os cálculos necessários e e
 
 ### Print
 ![Financ 0](img.png)
+
+
+### Como executar: 
