@@ -16,3 +16,9 @@ Após a inserção dos dados, o aplicativo realiza os cálculos necessários e e
 
 
 ### Como executar: 
+- Clone este repositório
+- Abra com VsCode ou Android Studio, com um terminal instale as dependências e execute no emulador ou navegador
+```bash
+flutter pub get
+flutter run
+```
