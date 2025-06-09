@@ -6,10 +6,10 @@ O Simulador de Financiamento é uma ferramenta intuitiva projetada para auxiliar
 Após a inserção dos dados, o aplicativo realiza os cálculos necessários e exibe de forma clara e objetiva o valor total a ser pago (montante final do financiamento) e o valor de cada parcela. Isso proporciona uma visão abrangente do compromisso financeiro, capacitando o usuário a tomar decisões mais informadas e a planejar seu orçamento de forma eficaz.
 
 ### Tecnologias Utilizadas:
-Flutter
-Dart
-vsCode
-Firebase Studio
+- Flutter
+- Dart
+- vsCode
+- Firebase Studio
 
 ### Print
 ![Financ 0](img.png)
